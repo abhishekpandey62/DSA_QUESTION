@@ -1,0 +1,16 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "demo.java",
+        "Sorting_java/demo",
+        "Sorting_java",
+        ".vscode/string",
+        ".vscode/stack.java",
+        ".vscode/recursion",
+        ".vscode/linkedList",
+        ".vscode/gfg",
+        ".vscode/Array",
+        ".vscode/2D-Array",
+        ".vscode/stack"
+    ]
+}
